@@ -1,0 +1,35 @@
+
+  #card {
+    margin: 8%;
+    position: absolute;
+    height: auto;
+    width: auto;
+    border-radius: 20px;
+    border-width: 20px;
+    border-style: solid;
+    border-color: white;
+    background-color: white;
+    background-image: url("");
+    background-size: 50vh, 70vh;
+    top: 0px;
+    left: 0%;
+    font-family:'Times New Roman', Times, serif;
+  }
+  
+  h4 {
+    text-align: center;
+  
+    -webkit-text-fill-color: rgba(0, 200, 200, 0.1);
+  
+    -webkit-background-clip: text;
+    background-image: url("https://i.pinimg.com/originals/20/21/7f/20217f7fa2c9701b8128d8fb153a4db9.gif");
+  
+    font-family: "Allura", cursive;
+  
+    padding: -2%;
+  
+    font-size: 19px;
+  
+    overflow: hidden;
+  }
+  
